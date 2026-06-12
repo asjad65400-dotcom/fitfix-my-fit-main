@@ -1,0 +1,24 @@
+{
+  "name": "FixMyFit",
+  "short_name": "FixMyFit",
+  "description": "Premium clothing alterations picked up from your home. Perfect fit, zero hassle.",
+  "theme_color": "#1e3a5f",
+  "background_color": "#faf8f5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
